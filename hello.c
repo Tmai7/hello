@@ -9,7 +9,7 @@
  #include <stdio.h>
 
  int main(int argc, char **argv){
-     printf("Hello World!\n");
+     printf("Theresa Mai!\n");
 
      return 0;
  }
